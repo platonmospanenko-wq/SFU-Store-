@@ -1,8 +1,22 @@
 [
-  {
-    "title": "Space Invaders",
-    "category": "Аркади",
-    "size": "0.02 МБ",
-    "download_url": "https://githubusercontent.com"
-  }
+    {
+        "title": "Space Invaders",
+        "category": "Аркади",
+        "size": "0.03 МБ",
+        "price": 0,
+        "description": "Класична аркадна гра про космічних загарбників.",
+        "image_path": "https://raw.githubusercontent.com/твій_нік/репозиторій/main/images/space.png",
+        "zip_path": "https://raw.githubusercontent.com/твій_нік/репозиторій/main/zips/space.zip",
+        "downloads": 12
+    },
+    {
+        "title": "Cyber Clicker",
+        "category": "Головоломки",
+        "size": "0.01 МБ",
+        "price": 49,
+        "description": "Клікер у стилі кіберпанк.",
+        "image_path": "",
+        "zip_path": "",
+        "downloads": 8
+    }
 ]
